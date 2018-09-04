@@ -1,3 +1,8 @@
+# Brityn Heffron's first CS193 Lab
+- I like how the class is taught by students who have experience in the major.
+- I like how the labs and lectures both give attendance points as well as correctness points.
+- I like how the class teaches CS topics but also covers practical skills that will help in the future.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
